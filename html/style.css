@@ -12,7 +12,7 @@ body, textarea {
 }
 
 textarea {
-    white-space: nowrap;
+    white-space: pre;
     font-size: 1.2em;
     min-width: 340px;
     width: auto;
